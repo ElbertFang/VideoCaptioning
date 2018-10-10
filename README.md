@@ -25,3 +25,7 @@ All code is writen in python. To use it you will need:
 ## Useage
 
 ### For training
+
+'''
+python train_video_features.py -e 100
+'''
