@@ -20,3 +20,8 @@ All code is writen in python. To use it you will need:
 * h5py
 * pickle
 * PIL
+
+-------
+## Useage
+
+### For training
