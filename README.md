@@ -29,3 +29,9 @@ All code is writen in python. To use it you will need:
 ```
 python train_video_features.py -e 100
 ```
+
+### For testing
+
+```
+python test_features.py
+```
