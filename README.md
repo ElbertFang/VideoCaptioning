@@ -22,7 +22,7 @@ All code is writen in python. To use it you will need:
 * PIL
 
 -------
-## Useage
+## Usage
 
 ### For training
 
