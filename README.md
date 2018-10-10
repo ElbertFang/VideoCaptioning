@@ -24,6 +24,16 @@ All code is writen in python. To use it you will need:
 -------
 ## Usage
 
+### Take features
+
+In order to save time in traing, you need to take frame features of videos at first. Therefore, in the course of traing does not need to deal with the original images and don't need to put them into the convolutional network.
+
+I provide to python file for taking features of frames. Actually, most of the code for the files are the same. I use different files because of the input format of training and testing is different.
+
+```
+python take_feature.py/take_test_feature.py
+```
+
 ### For training
 
 ```
