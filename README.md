@@ -36,6 +36,8 @@ python take_feature.py/take_test_feature.py
 
 ### For training
 
+The model's input is the feature has been taken with pre-trained CNN which can improve the speed of training. The final scores are the same with putting original images.
+
 ```
 python train_video_features.py -e 100
 ```
