@@ -1,5 +1,4 @@
 # VideoCaptioning
-
 -------
 ## Introduction
 
