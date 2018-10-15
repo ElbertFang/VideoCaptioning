@@ -7,7 +7,6 @@ This is the novice practice project and the code was written when I just became 
 
 If you have any questions, please let me know. 
 
--------
 ## Dependencies
 
 All code is writen in python. To use it you will need:
@@ -20,7 +19,6 @@ All code is writen in python. To use it you will need:
 * pickle
 * PIL
 
--------
 ## Usage
 
 ### Take features
