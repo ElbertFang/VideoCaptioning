@@ -1,5 +1,4 @@
 # VideoCaptioning
--------
 ## Introduction
 
 This is the baseline model for video captioning with Pytorch. Recent work with more innovative methods can not be public for the time being.
