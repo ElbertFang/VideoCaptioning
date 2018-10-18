@@ -45,5 +45,5 @@ python train_video_features.py
 Generate captions for the val/test split of dataset and output the final scores (include Bleu/Cider/Meteor/Rougel).
 
 ```
-python test_features.py or score.py
+python score.py
 ```
